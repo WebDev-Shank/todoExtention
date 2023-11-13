@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todoextention/static/css/main.d5a2c572.css",
+    "main.js": "/todoextention/static/js/main.da955fd8.js",
+    "index.html": "/todoextention/index.html",
+    "main.d5a2c572.css.map": "/todoextention/static/css/main.d5a2c572.css.map",
+    "main.da955fd8.js.map": "/todoextention/static/js/main.da955fd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5a2c572.css",
+    "static/js/main.da955fd8.js"
+  ]
+}
